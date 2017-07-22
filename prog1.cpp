@@ -21,6 +21,6 @@ int t,no,m,sw,sd;
         else
             printf("%d\n",sd);
     }
-
+	// ok
     return 0;
 }
